@@ -1,5 +1,6 @@
 # ArticleAI
 Write articles in bulk with Python and ChatGPT. Opensource project for generating articles, blog posts, SEO optimized texts, and much more!
+Automatically upload your generated blog posts to your Shopify store: https://github.com/birdhouses/ShopifyBlogAutomation
 
 Bulk Content Creation With ChatGPT: Generate multiple blog posts simultaneously, ensuring a steady stream of content for your audience.
 - Customizable Prompts: Tailor ChatGPT's responses to your specific content needs and preferences, ensuring each blog post aligns with your brand voice and objectives.
